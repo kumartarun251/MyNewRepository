@@ -1,4 +1,4 @@
 First line added three
-six
-seven
+three
+four
 just trying
