@@ -1,13 +1,4 @@
 First line added three
 one
 two
-fifty three
-fifty four
-four
-five in one
-ninty six
-ninty 8
-seven
-eight
-nine
-ten
+three four five
