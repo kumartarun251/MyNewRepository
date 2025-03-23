@@ -4,7 +4,7 @@ two
 fifty three
 fifty four
 four
-five
+five in one
 ninty six
 ninty 8
 seven
